@@ -8,3 +8,8 @@
   background-color: black;
   color: white;
 }
+
+.navbar nav a {
+  text-decoration: none;
+  color: white;
+}
