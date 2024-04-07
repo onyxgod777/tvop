@@ -8,6 +8,7 @@
 .navbar {
   background-color: black;
   color: white;
+  padding: 4vm;
 }
 
 .navbar nav a {
