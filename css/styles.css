@@ -14,3 +14,8 @@
   text-decoration: none;
   color: white;
 }
+
+.section video {
+  height: 100px;
+  width: auto;
+}
